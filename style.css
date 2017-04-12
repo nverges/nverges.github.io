@@ -1,0 +1,36 @@
+body {
+	font-family: Arial;
+}
+
+#logo {
+	margin-top: 20px;
+	font-size:40px;
+	margin: 20px;
+	padding-bottom: 20px;
+}
+
+nav {
+	font-size: 24px;
+	float: right;
+	margin: 20px;
+
+}
+
+.main-container {
+	margin-top: 24px;
+	font-size: 24px;
+}
+
+.auth-image {
+	border: 2px;
+	padding: 50px;
+	margin: 20px;
+}
+
+p {
+	margin: 20px;
+	color: red;
+	width: 50%;
+	height: 50%;
+	background: blue;
+}
