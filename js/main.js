@@ -168,7 +168,7 @@ $('#contact-form').submit(function (e) {
 	} else {
 		// Make request to send email
 		$.ajax({
-			url: "https://formspree.io/cperez2187@gmail.com", 
+			url: "https://formspree.io/nick.verges@gmail.com", 
 			method: "POST",
 			data: $(this).serialize(),
 			dataType: "json"
